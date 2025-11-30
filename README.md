@@ -41,7 +41,7 @@ Selamat datang di **Void Academy**, portal edukasi dengan tema futuristik dan ge
 ---
 
 ## 🔗 Live Demo
-Jika ingin mencoba, buka [link demo](#https://suryox666.github.io/Void-Academy/).
+Jika ingin mencoba, buka [link demo](https://suryox666.github.io/Void-Academy/).
 
 ---
 
